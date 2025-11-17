@@ -11,9 +11,9 @@ pubDatetime: 2025-11-17T15:49:35.000Z
 
 Following my [devavatar rebuild](/posts/devlog-devavatar-2-rebuild-complete) and a failed attempt at separating content from code using [TinaCMS](/posts/rebuilding-devavatar-update), I finally figured out a painless way to achieve this. I should have read the documentation properly, especially the part on the [Content Loader API](https://docs.astro.build/en/reference/content-loader-reference/#glob-loader). This post documents my approach.
 
-## Table of contents
-
 The key idea is to move the `content/` directory into a separate repository. This content repository will be a sibling to your main site repository. Then, we'll use the `glob()` loader to load the content using a relative path. We also need to update our deployment's GitHub Action to check out the content repository before building the site.
+
+## Table of contents
 
 ## Separation of Content
 
