@@ -1,0 +1,20 @@
+[
+    {
+        "id": "DevAvatar",
+        "name": "Dev Avatar",
+        "description": "My personal portfolio and blog, the very site you are on.",
+        "tags": ["TypeScript", "Astro", "React", "Tailwind", "GitHub-Pages"],
+        "projectUrl": "https://github.com/r0hitm/playlisty",
+        "liveUrl": "https://playlisty-spotify.vercel.app/",
+        "date": "2025-06-03T00:00:00.000Z"
+    },
+    {
+        "id": "Playlisty",
+        "name": "Playlisty",
+        "description": "(Working prototype) A tool to track and organize songs across Spotify playlists.",
+        "tags": ["TypeScript", "Spotify API", "Vite", "Tailwind", "Vercel"],
+        "projectUrl": "https://github.com/r0hitm/playlisty",
+        "liveUrl": "https://playlisty-spotify.vercel.app/",
+        "date": "2024-03-19T00:00:00.000Z"
+    }
+]
