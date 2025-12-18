@@ -1,12 +1,14 @@
 ---
 title: "My Experience with the Nothing Phone (2a) Plus"
-description: After one month of daily use, here’s my honest review of the Nothing Phone (2a) Plus.
+description: "Update: after 1 year usage!! here’s my honest review of the Nothing Phone (2a) Plus."
 pubDatetime: 2024-11-16T17:21:13.181Z
+modDatetime: 2025-12-18T06:02:53.494Z
 tags:
     - review
-    - opinion
-    - tech
+    - gadget
 ---
+
+**Update**: I've gotten sick of Nothing products, they're software is full of minor issues that you won't notice unless you start using their products daily. I now believe they are mostly a PR and marketting company, not a company you can rely on a stable software experience.
 
 I got the Nothing Phone (2a) Plus roughly one month ago (at the time of writing this post), and it has been a pleasant surprise. It exceeded my expectations, especially given the price I paid for it. Of course, no device is perfect — there are a few quirks — but in my experience, these are relatively minor.
 

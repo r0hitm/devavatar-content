@@ -1,12 +1,14 @@
 ---
-title: "Nothing OS 3.0: First Impressions & Disappointment"
+title: "Nothing OS 3.0 (4.0): First Impressions & Disappointment"
 description: "My rant about Nothing OS 3.0 update on the Nothing Phone (2a) Plus: missing features, UI glitches, and overall disappointment after months of waiting."
 pubDatetime: 2025-01-03T18:18:02.927Z
+modDatetime: 2025-12-18T06:02:53.494Z
 tags:
     - opinion
-    - review
-    - tech
+    - gadget
 ---
+
+**Update**: I've gotten sick of Nothing products, they're software is full of minor issues that you won't notice unless you start using their products daily. I now believe they are mostly a PR and marketting company, not a company you can rely on a stable software experience. This issue is more apparent with Nothing OS 4.0 release.
 
 This post is a direct response to the recent update of Nothing OS 3.0 on my Nothing Phone (2a) Plus. I have been using the phone for a while now (See my one month review [here](/posts/nothing-2a-plus-personal-review-after-one-month)), and mostly I have been very happy with it. But the recent update has left me disappointed and salty. Very salty🧂.
 
