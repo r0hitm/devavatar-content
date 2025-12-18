@@ -7,7 +7,7 @@ tags:
     - computer-architecture
     - review
 pubDatetime: 2025-09-06T18:16:15.000Z
-modDatetime: 2025-10-03T07:45:28.759Z
+modDatetime: 2025-12-18T06:57:56.872Z
 ---
 
 [Last time](/posts/course-review-coursera-tim-roughgarden-algorithms-npcomplete), I was thinking hard about my next steps after completing
@@ -44,3 +44,5 @@ Overall, I had fun with playing as a novice hacker ahahaha 🧑‍💻.
 ~~I will keep this blog post updated as I make progress. So keep an eye out for that!~~
 
 > Every software is open-source if you can read assembly.
+
+Follow up write-up here: [Writing a mini Shell program | Shell Lab pitfalls and tips](/posts/csapp-ics-shell-lab-homework).
