@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Should you use Git branches as a solo dev in a project?"
 description: "My personal philosophy on why using Git branches is a great idea even for solo developers."
 tags:

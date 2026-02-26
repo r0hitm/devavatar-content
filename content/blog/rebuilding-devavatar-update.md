@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Update on Rebuilding Dev Avatar
 description: Essentially, TinaCMS didn't work for my use case due to bugs and unexpected behavior. I asked for help on their Discord server, and
 pubDatetime: 2024-10-20T09:28:42.650Z

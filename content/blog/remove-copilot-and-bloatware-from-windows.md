@@ -1,4 +1,5 @@
 ---
+lang: en
 title: 'Removing Windows Bloatware, Spyware and Unwanted "AI" Features'
 description: I'm sick of the fact that Windows keeps adding bloatware, spyware and "AI" features like Copilot and Recall 🗑️.
 pubDatetime: 2024-10-19T17:53:48.595Z

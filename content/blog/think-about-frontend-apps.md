@@ -1,4 +1,5 @@
 ---
+lang: en
 title: This is How to Think About Server for a Frontend App
 description: Learn why frontend applications still need servers to function properly, despite running primarily on the client's device.
 pubDatetime: 2024-06-22T11:07:13.971Z

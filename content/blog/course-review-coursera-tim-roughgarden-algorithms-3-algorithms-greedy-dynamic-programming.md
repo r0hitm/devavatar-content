@@ -1,4 +1,5 @@
 ---
+lang: en
 pubDatetime: 2025-05-24T07:02:20.725Z
 modDatetime: 2025-07-24T18:24:00.336Z
 title: "Course Review: Tim Roughgarden's Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming"

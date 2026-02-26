@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Course Review: Tim Roughgarden's Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
 description: "My review of Tim Roughgarden's Coursera algorithms class covering divide-and-conquer techniques, sorting algorithms, and randomized approaches"
 pubDatetime: 2025-02-20T15:39:32.431Z

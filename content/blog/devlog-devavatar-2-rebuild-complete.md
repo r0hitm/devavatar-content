@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Devlog: Devavatar 2.0 - Rebuild complete"
 description: "A rundown of the complete rebuild of devavatar, including package upgrades, a new color scheme, UI changes, and more."
 tags:

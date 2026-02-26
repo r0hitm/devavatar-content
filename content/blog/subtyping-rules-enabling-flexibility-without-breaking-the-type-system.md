@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Subtyping Rules: Enabling Flexibility without Breaking the Type System"
 description: Subtyping enables polymorphism in static typing through width, permutation, transitivity, and reflexivity rules while preserving type soundness.
 pubDatetime: 2023-05-14T00:00:00.000Z

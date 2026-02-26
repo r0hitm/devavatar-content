@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Rebuilding Dev Avatar: Never Put Your Content And Code In The Same Repo"
 description: "I made the mistake of mixing content with code, combined with issues from the initial template I used."
 pubDatetime: 2024-09-09T12:21:51.718Z

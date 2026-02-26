@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Fixing broken Client-Side React Router on GitHub Pages Deployment
 description: The reasons behind the malfunctioning of React Router of a React App deployed on GitHub Pages and three strategies to fix this.
 pubDatetime: 2024-03-11T09:12:27.940Z

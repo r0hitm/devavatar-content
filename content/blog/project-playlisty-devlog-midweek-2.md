@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Playlisty Devlog: Mid-Week 2 Update | Functional Progress"
 description: Progress update on Playlisty app development, focusing on challenges with the Spotify API and implementing playlist track management functionality.
 pubDatetime: 2024-03-28T08:15:00.000Z

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Building First Homelab Server | Devlog Week 1"
 description: "Documenting my journey of getting started with a homelab server - missaps, learnings - everything!"
 pubDatetime: 2024-10-31T13:21:41.528Z

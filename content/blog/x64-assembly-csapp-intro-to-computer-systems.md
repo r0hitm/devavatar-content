@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Going Low with x64 Assembly - Systems Programming: The Beginning"
 description: "I started learning about systems programming with CS:APP book and ICS course, after completing Algorithms specialization"
 tags:

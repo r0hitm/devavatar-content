@@ -1,4 +1,5 @@
 ---
+lang: en
 title: My First Hackathon Experience at HackCBS 6.0
 description: My journey participating in India's largest student-run hackathon and also my very first hackathon.
 pubDatetime: 2023-11-28T00:00:00.000Z

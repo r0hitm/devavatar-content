@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Playlisty Devlog: Week 1 Update | Successful Login, Skeleton Routing, and Basic Layout Implemented"
 description: "Week 1 of building Playlisty, a React app that helps Spotify users track songs across playlists and simplify music organization."
 pubDatetime: 2024-03-26T05:40:42.343Z

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Understanding Soundness and Completeness in Programming Languages
 description: Explore how static code analysis ensures program correctness through sound type systems, and the inherent trade-off between soundness and completeness
 pubDatetime: 2023-04-30T00:00:00.000Z

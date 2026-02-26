@@ -1,4 +1,5 @@
 ---
+lang: en
 pubDatetime: 2025-03-28T14:11:43.187Z
 modDatetime: 2025-05-16T07:03:38.171Z
 title: "This site has comments now using AT Protocol and Bluesky"

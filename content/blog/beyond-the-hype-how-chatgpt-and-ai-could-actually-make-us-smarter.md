@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Beyond the Hype: How ChatGPT and AI Could Actually Make Us Smarter"
 description: Exploring how AI tools like ChatGPT can enhance learning and productivity while highlighting the importance of critical thinking and mindful usage.
 pubDatetime: 2023-03-29T00:00:00.000Z

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Course Review: Tim Roughgarden's Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them"
 description: "Review of the forth and the last of the Algorithms specialization from Standford Online"
 tags:

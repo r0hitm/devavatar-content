@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "No BS Separate Content Repo in AstroJS Blogs"
 description: "Using the Content Loader API and GitHub Actions to move the content/ directory to an external repository and automatically trigger redeployments."
 tags:

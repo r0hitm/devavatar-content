@@ -1,4 +1,5 @@
 ---
+lang: en
 pubDatetime: 2025-04-22T07:47:07.381Z
 title: "Codingame Spring Challenge 2025: Recap"
 tags:

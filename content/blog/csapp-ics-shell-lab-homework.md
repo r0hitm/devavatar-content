@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Writing a mini Shell program | Shell Lab pitfalls and tips"
 description: "My devlog on working through the Lab 5 - Shell Lab of 15-213: Intro to Computer Systems: Schedule for Fall 2015"
 tags:

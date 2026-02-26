@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Tutorial: How to build And Organize Advance X (Twitter) Bot in Python"
 description: "This post will dive into how you can develop a more advanced bot with multiple endpoints and code organization complex logic."
 pubDatetime: 2024-05-07T14:47:28.273Z

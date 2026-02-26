@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "The Modern Approach: Integrating Firebase Authentication in a React Project"
 description: Learn how to implement Firebase authentication in React using modern functional syntax, with practical examples.
 pubDatetime: 2023-07-09T00:00:00.000Z

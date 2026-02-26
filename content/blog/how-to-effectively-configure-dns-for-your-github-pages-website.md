@@ -1,4 +1,5 @@
 ---
+lang: en
 title: How to Effectively Configure DNS for Your GitHub Pages Website
 description: Learn how to set up a custom domain for your GitHub Pages website by configuring DNS records and linking your domain to your repository.
 pubDatetime: 2023-02-11T00:00:00.000Z

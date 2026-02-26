@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Do not put your passwords on someone else's computer"
 description: "Why I switched from Bitwarden to KeePassXC, and why you should too."
 pubDatetime: 2025-01-21T07:29:08.459Z

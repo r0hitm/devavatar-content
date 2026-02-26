@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Tutorial: Setup TinaCMS and AstroJS with Separate Content Repo"
 description: AstroJS for the website code, and tinaCMS for managing the content.
 pubDatetime: 2024-11-17T08:42:11.237Z

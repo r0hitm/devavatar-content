@@ -1,4 +1,5 @@
 ---
+lang: en
 pubDatetime: 2025-03-30T16:19:38.084Z
 title: "Course Review: Tim Roughgarden's Graph Search, Shortest Paths, and Data Structures"
 description: "Review of second course of the Algorithms specialization - graphs and shortest paths - and its prerequisites."

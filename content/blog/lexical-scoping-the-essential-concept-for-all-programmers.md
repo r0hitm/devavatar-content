@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Lexical Scoping: The Essential Concept for All Programmers"
 description: Learn about lexical scoping and closures, two fundamental concepts that enable efficient code structure and powerful programming patterns.
 pubDatetime: 2023-04-25T00:00:00.000Z

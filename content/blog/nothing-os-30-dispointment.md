@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Nothing OS 3.0 (4.0): First Impressions & Disappointment"
 description: "My rant about Nothing OS 3.0 update on the Nothing Phone (2a) Plus: missing features, UI glitches, and overall disappointment after months of waiting."
 pubDatetime: 2025-01-03T18:18:02.927Z

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: How to Convert UTC to EST with Python and Automatically Handle Daylight Saving Time
 description: Learn how to convert UTC to EST in Python while automatically handling daylight saving time using the pytz library and datetime module.
 pubDatetime: 2023-03-14T00:00:00.000Z

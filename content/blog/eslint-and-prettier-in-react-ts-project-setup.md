@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "React + TypeScript + Vite: Configuring ESLint & Prettier for Production-level App"
 description: Learn how to set up ESLint and Prettier in a React + TypeScript Vite project to enhance code quality and maintain consistent coding standards.
 pubDatetime: 2024-03-19T09:30:00Z

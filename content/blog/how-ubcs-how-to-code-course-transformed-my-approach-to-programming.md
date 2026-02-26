@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "How UBC's How to Code Course Transformed My Approach to Programming"
 description: "My journey with UBC's programming course that taught me systematic design principles beyond any specific language to solve problems effectively."
 pubDatetime: 2023-02-27T00:00:00.000Z

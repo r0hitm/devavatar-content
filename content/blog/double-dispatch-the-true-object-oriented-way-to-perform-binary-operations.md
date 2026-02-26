@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Double Dispatch: The True Object-Oriented Way to Perform Binary Operations"
 description: Learn how double dispatch enables objects to interact with different types in true OOP style, handling binary operations.
 pubDatetime: 2023-05-07T00:00:00.000Z

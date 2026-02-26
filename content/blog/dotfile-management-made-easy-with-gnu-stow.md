@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Dotfile Management Made Easy with GNU Stow
 description: Manage your configuration files using GNU Stow, a symlink farm manager that helps you organize, track, and sync dotfiles across multiple systems.
 pubDatetime: 2023-06-17T00:00:00.000Z

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Rebuilding Dev Avatar | DevLog Week 1"
 description: 'By "this week," I mean last week... since this post is a little late, haha. But let’s talk about the progress I made in that time.'
 pubDatetime: 2024-09-23T14:18:40.836Z

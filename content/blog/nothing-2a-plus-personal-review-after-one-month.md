@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "My Experience with the Nothing Phone (2a) Plus"
 description: "Update: after 1 year usage!! here’s my honest review of the Nothing Phone (2a) Plus."
 pubDatetime: 2024-11-16T17:21:13.181Z

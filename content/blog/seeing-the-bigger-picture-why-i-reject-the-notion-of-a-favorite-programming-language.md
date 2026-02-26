@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Seeing the Bigger Picture: Why I Reject the Notion of a Favorite Programming Language"
 description: Why choosing programming languages based on the problem at hand, rather than personal preference, leads to more effective and elegant solutions.
 pubDatetime: 2023-06-15T00:00:00.000Z

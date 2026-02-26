@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "GitHub Co-Pilot Review as a Student: Why I am Disabling It"
 description: While Go-Pilot potential to replace developers is a topic of debate, I find that notion far-fetched (for now at least).
 pubDatetime: 2023-10-05T00:00:00.000Z

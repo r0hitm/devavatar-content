@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "My Experience with Open Source Software: The Good, The Bad, and The Ugly"
 description: Exploring the benefits and drawbacks of free and open-source software through my personal lens.
 pubDatetime: 2023-04-02T00:00:00.000Z

@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Playlisty Devlog: Week 3 Update | App is complete"
 description: "Playlisty for Spotify is functional. This post covers how I worked around an API limit and rest of the development through deployment on Vercel."
 pubDatetime: 2024-04-05T13:54:30.183Z

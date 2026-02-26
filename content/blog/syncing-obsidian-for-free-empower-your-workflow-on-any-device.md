@@ -1,4 +1,5 @@
 ---
+lang: en
 title: "Updated: Syncing Obsidian across Multiple Devices Using Git and/or Syncthing for Free"
 description: Step-by-Step tutorial for setting up Obsidian Vault sync across devices for free, using git version control or via Syncthing.
 pubDatetime: 2023-06-07T00:00:00.000Z
