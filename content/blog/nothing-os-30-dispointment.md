@@ -5,8 +5,7 @@ description: "My rant about Nothing OS 3.0 update on the Nothing Phone (2a) Plus
 pubDatetime: 2025-01-03T18:18:02.927Z
 modDatetime: 2025-12-18T06:02:53.494Z
 tags:
-    - opinion
-    - gadget
+    - review
 ---
 
 **Update**: I've gotten sick of Nothing products, they're software is full of minor issues that you won't notice unless you start using their products daily. I now believe they are mostly a PR and marketting company, not a company you can rely on a stable software experience. This issue is more apparent with Nothing OS 4.0 release.

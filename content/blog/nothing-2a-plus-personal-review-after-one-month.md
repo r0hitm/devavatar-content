@@ -6,7 +6,6 @@ pubDatetime: 2024-11-16T17:21:13.181Z
 modDatetime: 2025-12-18T06:02:53.494Z
 tags:
     - review
-    - gadget
 ---
 
 **Update**: I've gotten sick of Nothing products, they're software is full of minor issues that you won't notice unless you start using their products daily. I now believe they are mostly a PR and marketting company, not a company you can rely on a stable software experience.
@@ -71,11 +70,10 @@ Just why the heck does every company want to exclude these? Why is it always a t
 
 ### Let’s Wrap This Up With a Quick Fire
 
-- **Design**: It’s a head-turner, and I’ve received several compliments, especially with the glyph lights.
-- **Performance**: Best for the price — and if you can get it on discount like I did, even better.
-- **OS**: Minimalist, no bloatware — better than Pixel OS, in my opinion.
-- **Software Updates**: 3 major Android updates, 4 years of security patches.
-- **Should I buy it?**: That depends on your preferences and requirements.
-- **Do you recommend it?**: Yes.
+#### **Do you recommend it?**: ~~Yes~~ NO.
 
-![Hitori Bocchi smartphone gif](https://media1.tenor.com/m/5due5y_1r28AAAAd/hitori-bocchi.gif)
+~~- **Design**: It’s a head-turner, and I’ve received several compliments, especially with the glyph lights.~~
+~~- **Performance**: Best for the price — and if you can get it on discount like I did, even better.~~
+~~- **OS**: Minimalist, no bloatware — better than Pixel OS, in my opinion.~~
+~~- **Software Updates**: 3 major Android updates, 4 years of security patches.~~
+~~- **Should I buy it?**: That depends on your preferences and requirements.~~
